@@ -1,11 +1,11 @@
 {
-  "versao": "2026.11.18.1724",
-  "arquivo": "atualizacao-2026.11.18.1724.json",
-  "sha256": "6fc66ecf15302ac15f7fb838b60dce7b5cd2e2a7f6c847c3050bba69cd65162f",
-  "tamanho": 126485,
-  "publicada": "2026-11-18T20:24:40.168Z",
+  "versao": "2026.11.18.1734",
+  "arquivo": "atualizacao-2026.11.18.1734.json",
+  "sha256": "90a559f6cdc20e56bb86b71f3f244b1ba77e70f89fd67699a433eacea3460eb0",
+  "tamanho": 126009,
+  "publicada": "2026-11-18T20:34:06.001Z",
   "novidades": [
-    "Firewall de rede vinculado ao celular"
+    "Mudanças no qr code para celular"
   ],
-  "assinatura": "5fO3kOooizyIjgfbjh_7EH0eDiDxrKr3tIFUmgCZV6rYarwBGrzL8FJBeICbjFbKcckkN4WYdE-ZKblLZBC9DQ"
+  "assinatura": "xICIeOOVtXWSZzLbE3ioNnio43ARlwVeSGWfbv55upZQ3n9jPXIJyMFmDW8ImIxZlHmX3d1znFwo01PXGIZsDg"
 }
