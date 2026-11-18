@@ -1,11 +1,11 @@
 {
-  "versao": "2026.11.18.1734",
-  "arquivo": "atualizacao-2026.11.18.1734.json",
-  "sha256": "90a559f6cdc20e56bb86b71f3f244b1ba77e70f89fd67699a433eacea3460eb0",
-  "tamanho": 126009,
-  "publicada": "2026-11-18T20:34:06.001Z",
+  "versao": "2026.11.18.1840",
+  "arquivo": "atualizacao-2026.11.18.1840.json",
+  "sha256": "c2889a40fc82136c86ee5422c54aba606ca3f04517df6d73e6978c3d957e5563",
+  "tamanho": 133925,
+  "publicada": "2026-11-18T21:40:45.071Z",
   "novidades": [
-    "Mudanças no qr code para celular"
+    "Diversos"
   ],
-  "assinatura": "xICIeOOVtXWSZzLbE3ioNnio43ARlwVeSGWfbv55upZQ3n9jPXIJyMFmDW8ImIxZlHmX3d1znFwo01PXGIZsDg"
+  "assinatura": "RKcXQqdVTQunJK4PbrZqQt4r60Ds7aFnD3R3JDOQ_PMqEDWmuekqUnEyRO1xhDi5LkqUASQkySWZzybaiyaKBA"
 }
