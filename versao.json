@@ -1,0 +1,13 @@
+{
+  "versao": "2026.11.18.1654",
+  "arquivo": "atualizacao-2026.11.18.1654.json",
+  "sha256": "214f7aa234f3cd8a8176807b354dac7b3e0f425fb96e2a2b1be13e31c1f4a13f",
+  "tamanho": 125241,
+  "publicada": "2026-11-18T19:54:21.955Z",
+  "novidades": [
+    "Atualização do sistema pelo botão",
+    "Pagamento dividido em duas formas",
+    "Lucro e margem nos relatórios"
+  ],
+  "assinatura": "MrvofSE1279hB18VUMXPceRFEShCUFEC_a5mle5-sASeQZosfpmD9jWcCIBh2vNCHccozeZkbAw02b7TiLJhAA"
+}
