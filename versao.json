@@ -1,11 +1,11 @@
 {
-  "versao": "2026.11.18.1705",
-  "arquivo": "atualizacao-2026.11.18.1705.json",
-  "sha256": "56e2b5dd2d496b5d2eb4d42b8b6597f0fce9b8c2106913b318bf1abf76533229",
-  "tamanho": 123705,
-  "publicada": "2026-11-18T20:05:36.539Z",
+  "versao": "2026.11.18.1710",
+  "arquivo": "atualizacao-2026.11.18.1710.json",
+  "sha256": "852a34c36f48f8a0b67810d1f1aea78fe773d993a5cc1cdaa855c29aec551718",
+  "tamanho": 123777,
+  "publicada": "2026-11-18T20:10:13.436Z",
   "novidades": [
-    "Telas mais limpas"
+    "Qr code para logar pelo celular"
   ],
-  "assinatura": "UQWKvj4fEUOicIVol618THzxiglvCFJ5_xrAUlBZqMerDZvZd-T79nrvzcRSPs-zJT7UJGHSP5wX8piJY_18Aw"
+  "assinatura": "eBDggKAXJ_PJCMj6L0VI7GxNJQagKyQoDZV0p_AGvO2egmCXG18wg8fEWQokgnZcSneS67cnHKyYqg7Fk67VDQ"
 }
