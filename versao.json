@@ -1,11 +1,11 @@
 {
-  "versao": "2026.11.18.2114",
-  "arquivo": "atualizacao-2026.11.18.2114.json",
-  "sha256": "0771b031b435ec126ddaee91a40af1696ee2e4f8db9ed5afae77c13a3339665e",
-  "tamanho": 134209,
-  "publicada": "2026-11-19T00:14:44.015Z",
+  "versao": "2026.11.18.2120",
+  "arquivo": "atualizacao-2026.11.18.2120.json",
+  "sha256": "4964da276caa392a652c5d34b1c6af0bdde51987f8f45fe452dfa3ff35cef1ca",
+  "tamanho": 134609,
+  "publicada": "2026-11-19T00:20:44.835Z",
   "novidades": [
-    "sistema de licenca atualizada"
+    "atualizacao licenca"
   ],
-  "assinatura": "TG0JaAOnz0WjTcWkNPuBcnZHTfDW76lHuHnteRl_U5GKpcs3ThDEBlwW3IfGNcituxAp6Q3_ua2BtB7C8UZ6AA"
+  "assinatura": "THM8JAfgILpYi74438_40vuYpI9f1aVaEo1cnVcUvHf2DvfeRttKcH2qPHOs_9S5nMRQoWreYCMPP28vNu13BA"
 }
