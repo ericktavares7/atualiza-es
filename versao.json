@@ -1,11 +1,12 @@
 {
-  "versao": "2026.11.21.1005",
-  "arquivo": "atualizacao-2026.11.21.1005.json",
-  "sha256": "8faca2f543cd5fb690a6a4131b6736b3d23beaea7e35f8a24566ff914d761c02",
-  "tamanho": 154473,
-  "publicada": "2026-11-21T13:05:04.201Z",
+  "versao": "2026.11.21.1017",
+  "arquivo": "atualizacao-2026.11.21.1017.json",
+  "sha256": "0c0748b484e978a723fbc7aba27678107535fd86c2925b86b5abdcf3bd20aff9",
+  "tamanho": 159881,
+  "publicada": "2026-11-21T13:17:22.630Z",
   "novidades": [
-    "Novo sistema de estoque"
+    "tela compras",
+    "calendario de validade novo visual"
   ],
-  "assinatura": "bNx3eC8E6PdKvAD5NyefPzLH2hcj2fUVdLS0JSMUUIxU6NBqn-4zYnvBJeZADAzq8w3tsRf60jz8V3k8Et-rDA"
+  "assinatura": "bE4tv8TgZHXXE5CsqBcPzYFNxxzt9-QLdDcUfnyJUIMJ5jL2rkVhRxhU108f4KcQ-NXmTzehIi3Bujd0Qb64DQ"
 }
