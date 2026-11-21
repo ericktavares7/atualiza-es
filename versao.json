@@ -1,11 +1,11 @@
 {
-  "versao": "2026.11.21.1126",
-  "arquivo": "atualizacao-2026.11.21.1126.json",
-  "sha256": "336dd2ef2f9e12f1b003cc3ab5bdb38a524c4fd7b07b0c0fc59ac46f7a15ba21",
-  "tamanho": 173569,
-  "publicada": "2026-11-21T14:26:26.461Z",
+  "versao": "2026.11.21.1136",
+  "arquivo": "atualizacao-2026.11.21.1136.json",
+  "sha256": "2402b6fa91883973af4aede04dd0035236027221361a6d52d961e09d7f34e0a4",
+  "tamanho": 173809,
+  "publicada": "2026-11-21T14:36:15.593Z",
   "novidades": [
-    "Pontos por fidelidade"
+    "Melhoria de gráficos (Compras)"
   ],
-  "assinatura": "9vMtX77kQhkCzXzpw-LxVDWxL9N-kJZ-uxAy_PQ9PbUavYkPqVENnuXpWJkPyWG41LHDJ7zlHEYWR46lsS_-CQ"
+  "assinatura": "KmZVs9ROTn0kil386WgIrKa2CIsR9TyX2gGpjh7kP3gHJGpUoYfYV9EFOzTOISdginhRZ97bKAtjSHnN-39RDg"
 }
