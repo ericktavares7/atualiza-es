@@ -1,12 +1,11 @@
 {
-  "versao": "2026.11.21.1017",
-  "arquivo": "atualizacao-2026.11.21.1017.json",
-  "sha256": "0c0748b484e978a723fbc7aba27678107535fd86c2925b86b5abdcf3bd20aff9",
-  "tamanho": 159881,
-  "publicada": "2026-11-21T13:17:22.630Z",
+  "versao": "2026.11.21.1126",
+  "arquivo": "atualizacao-2026.11.21.1126.json",
+  "sha256": "336dd2ef2f9e12f1b003cc3ab5bdb38a524c4fd7b07b0c0fc59ac46f7a15ba21",
+  "tamanho": 173569,
+  "publicada": "2026-11-21T14:26:26.461Z",
   "novidades": [
-    "tela compras",
-    "calendario de validade novo visual"
+    "Pontos por fidelidade"
   ],
-  "assinatura": "bE4tv8TgZHXXE5CsqBcPzYFNxxzt9-QLdDcUfnyJUIMJ5jL2rkVhRxhU108f4KcQ-NXmTzehIi3Bujd0Qb64DQ"
+  "assinatura": "9vMtX77kQhkCzXzpw-LxVDWxL9N-kJZ-uxAy_PQ9PbUavYkPqVENnuXpWJkPyWG41LHDJ7zlHEYWR46lsS_-CQ"
 }
