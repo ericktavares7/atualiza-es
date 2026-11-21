@@ -1,11 +1,11 @@
 {
-  "versao": "2026.11.20.1104",
-  "arquivo": "atualizacao-2026.11.20.1104.json",
-  "sha256": "2b9d1a3ec3a56c17b55011515ec44f4cd3bbe324cb048fb944adb46cbde80e4d",
-  "tamanho": 137169,
-  "publicada": "2026-11-20T14:04:39.884Z",
+  "versao": "2026.11.21.1005",
+  "arquivo": "atualizacao-2026.11.21.1005.json",
+  "sha256": "8faca2f543cd5fb690a6a4131b6736b3d23beaea7e35f8a24566ff914d761c02",
+  "tamanho": 154473,
+  "publicada": "2026-11-21T13:05:04.201Z",
   "novidades": [
-    "att estoque"
+    "Novo sistema de estoque"
   ],
-  "assinatura": "2zI2KUVlgJ26RlR93f6Dfmz7ia6vhGdL2f_tAhfoum6sxfendLaBFTkkUHomnz1uHdh9deS0J09SKr_tmZ89CA"
+  "assinatura": "bNx3eC8E6PdKvAD5NyefPzLH2hcj2fUVdLS0JSMUUIxU6NBqn-4zYnvBJeZADAzq8w3tsRf60jz8V3k8Et-rDA"
 }
